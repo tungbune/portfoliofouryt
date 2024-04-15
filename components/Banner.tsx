@@ -14,14 +14,15 @@ const Banner = () => {
       </div>
       {/* Description */}
       <div className="w-3/4 flex flex-col items-center md:items-start    gap-2">
-        <h1 className="text-5xl font-bold text-white">John Doe</h1>
+        <h1 className="text-5xl font-bold text-white">Daniel - Nguyen Hoang Tung </h1>
         <h3 className="text-xl md:text-2xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-blue-300 via-red-300 to-indigo-300 tracking-wide">
-          Full Stack Developer
+          International Business Specialist
         </h3>
         <p className="text-base tracking-wide text-center md:text-left">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, cum
-          consequuntur soluta explicabo saepe voluptate atque accusantium quasi
-          perspiciatis, quos quaerat odit voluptatem, debitis culpa!
+          I would like tp express my sincere gratitude to your interest on my portforlio.
+          That supports me to continously develop myself and navigate 
+          my actions, following the ambition to spread out more transformational values in society 
+          and emphasize the role of education in the mission to improve and enhance human advancement. 
         </p>
       </div>
     </div>
