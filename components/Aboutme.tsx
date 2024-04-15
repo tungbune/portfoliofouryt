@@ -7,23 +7,22 @@ const Aboutme = () => {
       <Title text="About Me" icon={<SiInformatica />} />
       <div className="text-lg tracking-wide flex flex-col gap-6">
         <p>
-          I am a web developer with 4+ years of experience in React. I have a
-          strong foundation in front-end & back-end development and am skilled
-          in creating user-friendly and responsive web applications using React
-          and its ecosystem. I have experience working on a variety of projects,
-          including building and maintaining single page applications,
-          integrating with REST APIs, and implementing responsive design
-          principles. I am also proficient in using tools such as Webpack, npm,
-          and Git for development and deployment. In addition to my technical
-          skills, I am a strong communicator and team player. I am able to work
-          effectively with cross-functional teams and am comfortable taking on
-          new challenges and learning new technologies as needed.
+          Having been rasied in a solid educational foundation, I have been aware of the indispensible role of education
+          in the transformational advancement of individuals. 
+          Hence, education alignment has been equipped with my personal growth. 
+          Throughout this foundation, I will be able to
+          share the methods and tips to how I could upgrade myself to conquer the high-educational values,
+          standing as large-scale positive messages in community. 
         </p>
         <p>
-          I am always looking to improve my skills and stay up-to-date with the
-          latest best practices in web development. I am excited to continue
-          growing as a developer and making meaningful contributions to projects
-          and teams.
+         As a learning enthusiast in behavioural economics and sustainability, 
+          I have always embraced myself in the journey of education and convey 
+          valuable lessons to my leaners.
+          That triggers me to delve into my major and academic research achievements. 
+          This portfolio is a platform for me to remark my educational journey 
+          and how I can advance my orientation,
+          standing as a recognizable tool with every single milestone of my
+          personal development. 
         </p>
       </div>
     </div>
